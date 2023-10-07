@@ -22,7 +22,7 @@ HyGraph is a headless content management system based on GraphQL technology enab
 ## Demo Video with CMS
 
 <video width="320" height="240" controls>
-  <source src="Video demo with CMS.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
 </video>
 
 ## Demo Pictures
