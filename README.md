@@ -20,8 +20,8 @@ With featured and recent posts, categories. full markdown articles, author infor
 HyGraph is a headless content management system based on GraphQL technology enabling seamless integration with any application.
 
 ## Demo Video with CMS
-https://github.com/SHnice/Saddam-Blog/assets/108930470/8c084529-f762-49a5-8d3a-6ee1e3edde43
 
+<video src='Video demo with CMS.mp4' width=180/>
 
 
 ## Demo Pictures
