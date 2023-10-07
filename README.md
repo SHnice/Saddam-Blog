@@ -1,4 +1,4 @@
-
+                                                                                                
 
 # HyGraph Headless CMS Blog
 ### [Live Site: Saddam Blog](https://saddamblog.vercel.app/)
@@ -21,9 +21,7 @@ HyGraph is a headless content management system based on GraphQL technology enab
 
 ## Demo Video with CMS
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+<video src='https://github.com/SHnice/Saddam-Blog/assets/108930470/47a6ae56-dcab-4d0f-8213-b67da5330316' width="320" height="240" controls />
 
 ## Demo Pictures
 <kbd>![image](https://github.com/SHnice/Saddam-Blog/assets/108930470/902fa42b-4008-42d2-b22d-4ee5a4ce3bc9)</kbd>
